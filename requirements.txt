@@ -1,0 +1,9 @@
+scikit-learn[alldeps]
+numpy
+scipy
+matplotlib
+jupyter
+sympy
+networkx
+pyamg
+pygraphviz
